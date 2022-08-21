@@ -1,12 +1,10 @@
-Hi 👋 My name is Guilhermo
+Olá 👋 Meu Nome é Anthony
 ==========================
 
-Full Stack Software Developer
+Aprendiz de Desenvolvimento de Software
 -----------------------------
 
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
-
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [44 campus in 26 countries](https://www.42network.org/42-schools/).
+Sou um Técnico em Eletrônica e com curso Tecnólogo em Ánalise e desenvolvimento de software ,tenho 40 anos e atualmente estudo para fazer uma transição de carreira. Adoro codificar e descobrir como resolver problemas. Meu foco principal é o desenvolvimento web e back-end.
 
 * 🌍 Estou sediado em Salvador - BA
 * ✉️ Você pode entrar em contato comigo em [oliveira.anthony@gmail.com](mailto:oliveira.anthony@gmail.com)
