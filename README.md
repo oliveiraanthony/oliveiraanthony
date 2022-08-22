@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/oliveiraanthony?logo=github&style=f
 
 <b>Minhas estatísticas do GitHub</b>
 
-<a href="http://www.github.com/oliveiraanthony"><img src="https://github-readme-stats-oliveiraanthony.vercel.app/api?username=oliveiraanthony&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="oliveiraanthony's GitHub stats" /></a>
+<a href="http://www.github.com/oliveiraanthony"><img src="https://github-readme-stats-oliveiraanthony.vercel.app/api?username=oliveiraanthony&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="oliveiraanthony GitHub status" /></a>
 
 <a href="http://www.github.com/oliveiraanthony"><img src="https://github-readme-streak-stats.herokuapp.com/?user=oliveiraanthony&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
